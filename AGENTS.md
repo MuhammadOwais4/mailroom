@@ -12,4 +12,4 @@ Mailroom is a newsletter tool.
 
 ## How I learn
 
-I have read up to Step 13.8. Use only what I have read, and when something new appears, ask me to predict it before you explain it.
+I have read up to Step 13.9. Use only what I have read, and when something new appears, ask me to predict it before you explain it.
