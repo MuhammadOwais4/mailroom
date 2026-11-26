@@ -8,6 +8,7 @@ Mailroom is a newsletter tool.
 - Tests first: behavior is written as a test before the code.
 - Never read today's date inside the logic.
 - Emails never use emoji in the subject.
+- Behaviors first: I give the expected answers, you write them as checks, show them failing, then write the code.
 
 ## How I learn
 
