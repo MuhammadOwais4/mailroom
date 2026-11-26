@@ -7,6 +7,7 @@ Mailroom is a newsletter tool.
 - Newsletter: Soft Technix, for the softtechnix team.
 - Tests first: behavior is written as a test before the code.
 - Never read today's date inside the logic.
+- Emails never use emoji in the subject.
 
 ## How I learn
 
