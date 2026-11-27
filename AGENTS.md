@@ -8,7 +8,8 @@ Mailroom is a newsletter tool.
 - Tests first: behavior is written as a test before the code.
 - Never read today's date inside the logic.
 - Emails never use emoji in the subject.
-- Behaviors first: I give the expected answers, you write them as checks, show them failing, then write the code.
+- Behaviors first: I give the expected answers, you write them as tests, show them failing, then write the code.
+- The checks are now pytest tests in tests/, one test per behavior, each named for the behavior it checks. Run them with uv run pytest. There is no checks.py.
 - Never edit data/subscribers.csv to try something out. Experiments use a copy outside the project.
 
 ## How I learn
