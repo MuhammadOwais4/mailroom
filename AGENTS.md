@@ -9,6 +9,7 @@ Mailroom is a newsletter tool.
 - Never read today's date inside the logic.
 - Emails never use emoji in the subject.
 - Behaviors first: I give the expected answers, you write them as checks, show them failing, then write the code.
+- Never edit data/subscribers.csv to try something out. Experiments use a copy outside the project.
 
 ## How I learn
 
